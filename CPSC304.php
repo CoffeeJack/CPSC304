@@ -16,7 +16,7 @@
   OCILogon below to be your ORACLE username and password -->
 
 <p>If you wish to reset the table press on the reset button. If this is the first time you're running this page, you MUST use reset</p>
-<form method="POST" action="oracle-test1.php">
+<form method="POST" action="CPSC304.php">
    
 <p><input type="submit" value="Reset" name="reset"></p>
 </form>
@@ -24,7 +24,7 @@
 <p>Insert values into tab1 below:</p>
 <p><font size="2"> Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Name</font></p>
-<form method="POST" action="oracle-test1.php">
+<form method="POST" action="CPSC304.php">
 <!--refresh page when submit-->
 
    <p><input type="text" name="insNo" size="6"><input type="text" name="insName" 
@@ -39,7 +39,7 @@ get the values-->
 <p> Update the name by inserting the old and new values below: </p>
 <p><font size="2"> Old Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 New Name</font></p>
-<form method="POST" action="oracle-test1.php">
+<form method="POST" action="CPSC304.php">
 <!--refresh page when submit-->
 
    <p><input type="text" name="oldName" size="6"><input type="text" name="newName" 
